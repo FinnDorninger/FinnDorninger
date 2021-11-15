@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @FinnDorninger from Austria!
+- 🌱 I’m currently learning Android-Development and work with the Delphi programming language as a software developer!
+- 💞️ I’m looking to collaborate on small hobby projects.
+- 📫 Reachable under: dorninger.fi@gmail.com
